@@ -1,4 +1,4 @@
-# Deep_Q_Network
+# Deep_Q-Network
 
 Author : Hugo Caselles-Dupré
 
